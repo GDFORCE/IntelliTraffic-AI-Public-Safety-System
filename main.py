@@ -6,7 +6,7 @@ import llm_reasoning
 import dispatcher 
 
 # Initialize the client
-client = genai.Client(api_key="AIzaSyAJiLgVrP1gqXLlJ4cMSKrj8MXn8wOFtvY")
+client = genai.Client(api_key="")
 
 # ==========================================
 # 🎥 THE MOCK CAMERA REGISTRY
